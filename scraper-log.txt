@@ -1,0 +1,2 @@
+From statement 4: AT2017gfo has no spectra to collect
+Runtime: 0.1652522325515747 minutes
